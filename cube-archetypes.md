@@ -1,6 +1,6 @@
 # Cube Archetypes
 
-[My cube](www.cubetutor.com/viewcube/4642). Pretty standard.
+[My cube](http://www.cubetutor.com/viewcube/4642). Pretty standard.
 
 ## White
 White has strong aggro support (lots of cheap creatures), specifically, 
