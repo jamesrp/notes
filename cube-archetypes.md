@@ -2,6 +2,18 @@
 
 [My cube](http://www.cubetutor.com/viewcube/4642). Pretty standard.
 
+While thinking about cube archetypes a few months ago, I started to wonder if
+cube is a sustainable format when played with experienced players. I've mostly
+played with a mix of about 4 cubers and 4 new players, so my strategy has been
+to draft a proactive broken deck without much interaction, and see if it gets
+there. New players tend to draft good cards in two colors (e.g. GW with Hero
+of Bladehold and similar cards), but without a plan other than winning with
+creatures. Broken decks tend to prey on these decks.
+
+But, I hope that a more sustainable metagame exists when played with cube
+aficionados, so I'm writing up what I think the good cube archetypes are to
+flesh out these thoughts.
+
 ## White
 White has strong aggro support (lots of cheap creatures), specifically, 
 token generation and mass pump. It also has powerful removal options, sweepers,
