@@ -26,4 +26,9 @@ there is a workbook: "varian bergstrom workouts filetype:pdf"
 * marginal utility := dU/dx_i. can calculate MRS (see ch3) with this, via dx_i  dx_j = (dU/dx_i) / (dU / dx_j).
 * example: for w = walking time to bus or car in minutes, t = trip time in minutes, c = trip cost in dollars. U(w,t,c) = -.147w - .0411t - 2.24c predicts 93% of bus vs car choices! this is amazing. from the [lecture](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2000/mcfadden-lecture.pdf) it looks like this may be a simplification of the actual work.
 
-
+## ch5 - choice
+* Given budget constraint and utility function (or indifference curves) we can find the utility-maximizing bundle of goods
+* Conversely, given observed behavior at different income levels and prices, we can estimate utility function.
+  * I wonder if we can do this at all in software products, e.g. trading off page load time (or data use) and page functionality. Seems tough since we don't have prices, but may be able to do something here.
+* At a fixed market price, the price ratio between two goods will be equal to the marginal rate of substitution: for everyone! Because if it weren't for someone, they should alter their purchases until it is. This is an optimality condition assuming everyone pays the same prices for goods.
+* For a given consumer, an income tax is always higher utility (for a given revenue extracted) than a consumption tax on a good. But, different consumers might have different utility functions, so a given income tax might not leave everyone better off uniformly. Haven't worked through this but it seems it might be interesting in the case of multiple utility functions.
